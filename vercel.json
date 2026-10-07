@@ -1,7 +1,8 @@
 {
   "services": {
     "roadledger": {
-      "root": "."
+      "root": ".",
+      "framework": "django"
     }
   },
   "rewrites": [
